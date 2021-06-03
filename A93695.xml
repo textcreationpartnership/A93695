@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Army vindicated, in their late dissolution of the Parliament: with several cautions and directions in point of a new representative. Published for the satisfaction of all the real and cordial members of the Commonwealth, whose aid and assistance is required herein, by John Spittlehouse, a late member of the Army.</title>
+            <author>Spittlehouse, John.</author>
+         </titleStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93695</idno><idno type="EEBO-CITATION">99863516</idno>
+  <idno type="VID">115720</idno>
+  <idno type="EEBO-PROQUEST">2240956865</idno>
+  
+            <idno type="STC">Wing S5004</idno>
+            <idno type="STC">Thomason E693_1</idno>
+            <idno type="STC">ESTC R203630</idno>
+            <idno type="PROQUEST">99863516</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99863516e"/>
+            <note>(EEBO-TCP ; phase 2, no. A93695)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115720)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 107:E693[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Army vindicated, in their late dissolution of the Parliament: with several cautions and directions in point of a new representative. Published for the satisfaction of all the real and cordial members of the Commonwealth, whose aid and assistance is required herein, by John Spittlehouse, a late member of the Army.</title>
+                  <author>Spittlehouse, John.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Moone, at the Seven Stars in Paul's Church-yard, neer the great North-door.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aprill 24 1653".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Army --  History, (17th century) --  Early works to 1800.</term>
+               <term type="corporate_name">England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115720:1"/>
+            <p>THE ARMY VINDICATED, In their late DISSOLUTION Of the <hi>PARLIAMENT:</hi> With several CAUTIONS and DIRECTIONS In point of a New REPRESENTATIVE.</p>
+            <p>Published for the satisfaction of all the real and cor<g ref="char:EOLhyphen"/>dial members of the Commonwealth, whose aid and assistance is required herein, By <hi>John Spittlehouse,</hi> a late Member of the Army.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Richard Moone,</hi> at the Seven Stars in <hi>Paul</hi>'s Church-yard, neer the great North-door. 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:115720:2"/>
+            <pb n="1" facs="tcp:115720:2"/>
+            <head>The Army vindicated, In their <hi>Late Dissolution of the Parliament.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>O stop the mouthes of calumnious persons, and <hi>Parsons</hi> &amp;c. who no doubt will be ready to asperse the late <hi>thrice-noble action of the Army</hi> in their dissolution of the Parliament, I do here<g ref="char:EOLhyphen"/>by affirm the same to be justifiable, for these fol<g ref="char:EOLhyphen"/>lowing Reasons; <hi>Viz.</hi>
+            </p>
+            <list>
+               <item>1. <hi>In regard of the present Pressures, or rather Oppressions of the Commonwealth in general (as it consisteth of all the people comprehended therein) as also inrespect of the deep sighs &amp; groans which the real members thereof have taken under the same; as also, of</hi> the altogether impossibility of hopes <hi>that they had to be eased of the same by</hi> the late Representative, <hi>so called.</hi>
+               </item>
+               <item>2. <hi>In that the Army was onely made use of by the said Represen<g ref="char:EOLhyphen"/>tative,</hi> &amp;c. <hi>as so many Mastiffs, to keep the aforesaid real members in awe, whilst the most of the said Representative,</hi> &amp;c. <hi>did domi<g ref="char:EOLhyphen"/>neer over them as so many Tyrants.</hi>
+               </item>
+               <item>3. <hi>In that the Army was so deeply engaged to preserve the
+<pb n="2" facs="tcp:115720:3"/>aforesaid persons, as well as themselves, from the</hi> inevitable ruine which was coming upon them.</item>
+               <item>4. <hi>In respect of the several Mutations which hath happen<g ref="char:EOLhyphen"/>ed since the first election of the said Representative,</hi> (viz.)
+<list>
+                     <item>1. In as much as both the person and Office of him, by vertue of whose authority they were first elected, hath been since utterly cut off, extinguished, and abolished.</item>
+                     <item>2. In that it hath been clearly evident, that they are now totally re<g ref="char:EOLhyphen"/>jected of all their Electors.</item>
+                  </list>
+               </item>
+            </list>
+            <p>Which two aforesaid causes being taken away, the effect must of necessity cease. For in the first place, they were no longer Parlia<g ref="char:EOLhyphen"/>ment-men, then whilst there was a King to parly withal, (that being the alone reason why they were so elected) which when once taken out of the way, they could no more in reason expect to retain their nomi<g ref="char:EOLhyphen"/>nation of Parliament-men, then it is rational to imagine, that a stream should be preserved by an exhausted fountain.</p>
+            <p>So that it is as clear as the Sun in its brightest lustre, that since the death of the late King, the late Representative (so called) hath had its basis or foundation meerly upon the pleasure of the Army and their adherents, it being impossible it should be otherw<gap reason="illegible: missing" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, for these Reasons, <hi>viz.</hi>
+            </p>
+            <p n="1">1. In that all their other Electors had wholly deserted them, even unto blood.</p>
+            <p n="2">2. In that it is irrational to imagine that such persons and <hi>Parsons,</hi> &amp;c. whose Principles are as contrary to a Commonwealth, as dark<g ref="char:EOLhyphen"/>ness to light (which all the Royallists of the Nation, whether of the Presbyterian or Cavalier parties are notoriously known to be) should in the least assent, (after that fatal blow given to their so-much-ado<g ref="char:EOLhyphen"/>red Idol) to the continuation of the aforesaid Representative (especi<g ref="char:EOLhyphen"/>ally) as to the management of this late Kingdom as a Common<g ref="char:EOLhyphen"/>wealth, and so voluntarily to destroy that principle, which is yet as dear unto them as their lives and fortunes, (as some of them have late<g ref="char:EOLhyphen"/>ly by woful experience found; instace Mr. <hi>Love, &amp;c.</hi>
+            </p>
+            <p n="3">3. And as for the late forced engagement upon them, it was no o<g ref="char:EOLhyphen"/>ther then a meer Scare-crow to fright the aforesaid parties into obedi<g ref="char:EOLhyphen"/>ence (as all rational men do very well know) and therefore such their condescention could not in the least be properly termed a just and le<g ref="char:EOLhyphen"/>gal
+<pb n="3" facs="tcp:115720:3"/>re-instating of the aforesaid representative, by, or from such per<g ref="char:EOLhyphen"/>sons; they being driven thereunto by compulsion, whereas it should have proceeded from a free and voluntary affection that they had had, both to the said representative, as also to a commonwealth, then which nothing can be more contrary unto them, as aforesaid.</p>
+            <p>So that it must necessarily, and unavoidably follow, that the real Members of this Commonwealth are included in the Congregation<g ref="char:EOLhyphen"/>al Churches, and the Army, and their well-wishers, (not as yet in Church-fellowship; <hi>&amp;c.</hi>) and not any that are truly under the no<g ref="char:EOLhyphen"/>tion of the aforesaid two distinctions.</p>
+            <p>And therefore it would be no less then a downright folly and mad<g ref="char:EOLhyphen"/>ness, to entertaine or admit either of the aforesaid parties, <hi>&amp;c.</hi> as to have an share or interest in the election of a new representative; it being notoriously known (by all that know any thing) how de<g ref="char:EOLhyphen"/>sperately inraged the Cavaliers of this Nation have been and yet are (were it in their power) against the present government of this Nati<g ref="char:EOLhyphen"/>on (as a Commonwealth.) So that I perswade my self they have so much ingenuity in them, as to disclaime having to do with any power or authority that tendeth to the ruine of Monarchy, unless it be in hope <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> compass their desires thereby: Whereas reason teacheth that it is a sufficient priviledge, that such persons have their lives for a prey; and to be permitted to have their abode in the Commonwealth (living without distrubance) who without all controversie, would either have deprived us of our lives, or at the least have banished us the Nation.</p>
+            <p>Quest. <hi>I suppose the Cavalier party will not expect to be ad<g ref="char:EOLhyphen"/>mitted any interest in the next Election: But what have you in particular against the Presbyterian party?</hi>
+            </p>
+            <p>
+               <hi>Resp.</hi> They have not continued faithful unto the end, but contrary<g ref="char:EOLhyphen"/>wise, have given over the work before it was half finished.</p>
+            <p n="2">2. It is also notoriously known, that they have since their aforesaid declination, proved as turbulent (to their power) against the present Commonwealth, as ever was the Cavaliers. Yea, what is it that they either might, or could do to advance Monarchy, which they have not attempted? then which principle, what can be more destructive to the present Army, and their adherents, who are the alone proper sub<g ref="char:EOLhyphen"/>jects of this present Commonwealth; as also to the designe which
+<pb n="4" facs="tcp:115720:4"/>Jesus Christ is now about to accomplish by them, who without all controversie is determined to pluck up all Monarchical, and Anti<g ref="char:EOLhyphen"/>christian Rule and Government; to the end he may accomplish his yet-unperformed premises, as to rule all Nations, either by his gol<g ref="char:EOLhyphen"/>den Scepter, or Iron Rod?</p>
+            <p>Quest. <hi>The Presbyterian was faithful to what they undertook,</hi> viz. <hi>to what the Covenant injoyned them.</hi>
+            </p>
+            <p>
+               <hi>Respons.</hi> So far as that Covenant did tend to set up, or erect that which Jesus Christ was and is purposed to cast down, <hi>viz.</hi> Monarchy and Antichristianisme; as in a wonderful, and mira<g ref="char:EOLhyphen"/>culous manner he hath declared himself, and that to the admiration of those who have been the mediate instruments thereof: thrice bles<g ref="char:EOLhyphen"/>sed be his name for so doing, in that such his poor creatures have no cause to attribute any their acts to their own wisdome; but may in<g ref="char:EOLhyphen"/>genuously cast their crown on the ground, and ascribe the honour and praise to him that sitteth upon the throne, who liveth for ever and e<g ref="char:EOLhyphen"/>ver. It was to fight against God, as the event hath evidently decla<g ref="char:EOLhyphen"/>red. So that (if rational) they cannot but with the <hi>Egyptian</hi> Magi<g ref="char:EOLhyphen"/>cians, (Jannes and Jambres) confess that it was no other then the fin<g ref="char:EOLhyphen"/>ger of God, that hath brought all these (once never intended) things to pass (I mean by such as was ignorantly put upon the same,) as most of the Army can speak experimentally, who, I am confident, did once think the things that are now accomplished, to have been beyond their imagination. And therefore, inasmuch as they of the Presby<g ref="char:EOLhyphen"/>terian judgement have not been thought meet <hi>by God</hi> to be made co<g ref="char:EOLhyphen"/>operators with the present Army, and their adherents in those great actions that have lately been accomplished, but that the Lord hath rather left them to follow their own inventions; What are we, that we should entertayn such <hi>as God hath rejected?</hi>
+            </p>
+            <p>Neither is it probable to conjecture that Satan should cast out Satan; or that such persons as are wholly bent upon a Monarchical power, should be imployed as instruments to extirpate the same. Neither certainly is it their desire to destroy their own principle; and therefore surely will not retain any such thought as aforesaid.</p>
+            <p>Q. <hi>All the Presbyterians miscarriages ought to be buried in the late Act of oblivion, inasmuch as they have taken the engagement.</hi>
+            </p>
+            <p>
+               <hi>Resp.</hi> You may as well say that the Cavalier party is become
+<pb n="5" facs="tcp:115720:4"/>comformable, for they were the Ring-leaders of the other. But reason, yea common sense will judge, that what they or either of their par<g ref="char:EOLhyphen"/>ties did in that particular, or any other, relating to the establish<g ref="char:EOLhyphen"/>ment of a Commonwealth (as intended by Jesus Christ) hath been done quite contrary to their grain, they yet being as grand Antago<g ref="char:EOLhyphen"/>nists thereunto in their hearts as ever.</p>
+            <p>And therefore all the seeming compliances which they or either of them have made, cannot rationally be imputed to any affection that they have to the Army or their Adherents, so that I am very confi<g ref="char:EOLhyphen"/>dently assured that there can neither be a safe or durable peace, or u<g ref="char:EOLhyphen"/>nion made by admitting either of the aforesaid parties to have the least share or interest in a new election; for what safety can be ima<g ref="char:EOLhyphen"/>gined, by putting a Sword into the hand of a known Enemy? or what duration of love can be expected from <hi>a Jacob and an Esau, Esau</hi> being deprived of his birth-right, from him that is resolved to take his first opportunity to destroy you?</p>
+            <p>Qu. <hi>There may be certaine provisions and limitations used, (as intended in the late intended Act) for the regulating of the most violent of them, and not to declare againe all under each of the two aforesaid Notions, as to the next election.</hi>
+            </p>
+            <p>
+               <hi>Resp.</hi> In so doing you will only make provisions and limitations to erect Monarchy againe amongst us: for so long as either of the fore<g ref="char:EOLhyphen"/>said parties continue under their, or either of their Antichristian Hie<g ref="char:EOLhyphen"/>rarchies, they will reteine their desire to see this Common-wealth once more decked with a Monarchicall dress, without which their Tenents can neither be supported, or their Rabbies mainteyned in their desi<g ref="char:EOLhyphen"/>red pompe.</p>
+            <p>Qu. <hi>Would you have them ever excluded from the priviledge of election of a new Representative?</hi>
+            </p>
+            <p>
+               <hi>Resp.</hi> Yea, whilst they, or either of them reteine their affecti<g ref="char:EOLhyphen"/>ons to such Antichristian<note n="*" place="margin">For whilst that antichristian Ju<g ref="char:EOLhyphen"/>das liveth, it is impossible <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the State should e<g ref="char:EOLhyphen"/>ver be al quiet in any of the three Nations.</note> Rabbies (as yet they do) for otherwise it would argue the greatest folly that ever was acted in any Age, yea such an one as would at one blowe cast down all that ever the Army and their adherents have hitherto (by the blessing of God) built up, with so much expence of blood and hardship:
+<pb n="6" facs="tcp:115720:5"/>yea, such an Act as would at once blast all their wisdom, prudence, valour, yea and Religion it self, and thereby to render themselves and their posterities slaves even to eternity: from which the Lord in much mercy deliver us.</p>
+            <p>Having thus discovered who are not meet persons either to elect, or be elected, in reference to a new Representative, I shall (by Gods assist<g ref="char:EOLhyphen"/>ance) in the next place give you to know, whom I conceive are meet persons for such a purpose. And inasmuch as it is brought to such a pinch, as to employ onely Members of the Army and their adhe<g ref="char:EOLhyphen"/>rents in the aforesaid action, it will be requisite to consider,</p>
+            <p n="1">1. Whether it be the proper work of the Army and their adhe<g ref="char:EOLhyphen"/>rents, to joyn as one in the same; or that it be effected by one of them apart from the other? And if apart from each other, then whether the Army alone, or their adherents alone?</p>
+            <p>In answer to the second of these, <hi>viz.</hi> Whether it be the proper work of the Congregated Churches and their well-wishers (whom I term the Armies adherents) to take upon them to <hi>rule the Nations with a rod of Iron,</hi> (<hi>viz.</hi> in a Magistratical employment) I humbly conceive it altogether improper, And that for these following Rea<g ref="char:EOLhyphen"/>sons:</p>
+            <list>
+               <item>1. In that for such persons to take such a Jurisdiction upon them, would be to take unto themselves a grand mark or character of the Beast of <hi>Rome,</hi> whom we see doth set her Imps in the seat of Ci<g ref="char:EOLhyphen"/>vil Judicature, as we have formerly had presidents of; as when every <hi>Doctor in Divinity</hi> was a <hi>Justice of Peace,</hi> &amp;c. it being as an in<g ref="char:EOLhyphen"/>separable concomitant thereunto annexed.</item>
+               <item>2. In that I take it to be the onely peculiar work of the Congre<g ref="char:EOLhyphen"/>gated Churches, <hi>&amp;c.</hi> to hold forth the golden Scepter of the love of God in Christ Jesus unto the Nations of the world, and thereby to labour to allure them into the Church with that golden bait, and so to convert them, then any wise in the least, that may tend to their ru<g ref="char:EOLhyphen"/>ine in things temporal, but rather contrariwise to feed them when hun<g ref="char:EOLhyphen"/>gry, and clothe them when naked, according to the command of Canst <hi>&amp;c.</hi>
+               </item>
+               <item>3. In that by taking such an Office upon them, and not being Members of the Army, will rather make the Spouse of Christ odious,
+<pb n="7" facs="tcp:115720:5"/>then beautiful in the eyes of them that are without; and hence it was that <hi>David</hi> must onely prepare matter for the building of the Tem<g ref="char:EOLhyphen"/>ple, but <hi>Solomon</hi> must be the workman.</item>
+            </list>
+            <p>The result therefore will be this <hi>(viz.)</hi> That Members of Churches, <hi>quatenus.</hi> Members of Congregationall Churches (and not with<g ref="char:EOLhyphen"/>al Members of the Army) ought in no wise to handle the iron rod or sword of justice, that being <hi>Moses</hi> his proper right <hi>in the Campe,</hi> as well as the <hi>Marshall sword in the Field.</hi>
+            </p>
+            <p>As also that Members of the Army, <hi>quatenus</hi> Members of the Army, (and not in Church fellow-ship) ought in no wise to meddle with the affairs of the Church, let each of them therefore have recourse to their proper channels.</p>
+            <p>Qu. <hi>Would you have Members of Churches,</hi> quatenus <hi>Mem<g ref="char:EOLhyphen"/>bers of Churches, (and not Members of the Army) to have no<g ref="char:EOLhyphen"/>thing at all to do out of the Church, in matter of publick imploy<g ref="char:EOLhyphen"/>ment?</hi>
+            </p>
+            <p>
+               <hi>Resp.</hi> Not in any thing that appertaineth to civil Judicature; but in all things else whatsoever.</p>
+            <p>Qu. <hi>If the matter should be so ordered the Congregated Churches and their well-wishers, will have but little advantage above the Presbyterian party,</hi> &amp;c.</p>
+            <p>
+               <hi>Resp.</hi> Their advantage will be very much. For first, under God they will by such meanes be put into the greatest condition of safe<g ref="char:EOLhyphen"/>ty and liberty, that ever the Church enjoyed under the Gospel.</p>
+            <p n="2">2. By so doing, they will be as it were wholly set apart to propa<g ref="char:EOLhyphen"/>gate the Gospel in all places, where their brethren of the Army either hath or by providence may yet conquer, and so by gradation, until the Kingdom and Dominion, and greatness of the King<g ref="char:EOLhyphen"/>dom under the whole heavens,<note place="margin">Dan. c. <hi>7.</hi>
+               </note> shall be given to the people of the Saints of the most high, whose Kingdom is an everlast<g ref="char:EOLhyphen"/>ing Kingdome, whom all Dominions shall serve and obey; The time being now present, that the antient of dayes is come, and judgement is given unto the Saints of the most high, so that they shall take the Kingdomes of the world into their possessions, and that for ever, even for ever and ever. Even so be it Lord Jesus; <hi>Amen, Amen.</hi>
+            </p>
+            <p>So that I do hereby seriously advise all such as are reall and Cor<g ref="char:EOLhyphen"/>diall
+<pb n="8" facs="tcp:115720:6"/>the advancing of the Monarchical Kingdom of Jesus Christ upon Earth; that they would <hi>distinguish themselvs</hi> from <hi>such as are not,</hi> (and that even through the whole Commonwealth,) by associating themselves together with all possible speed that may be, and consult of what is here propounded in this small treatise as also that they would joyne together by way of Petition to intreat the Lord Generall of the Army, with all the Officers and Souldiers under his command, to take upon them as your Representatives, the Management or exercise of the civil Magistracy or Iron Rod, <hi>viz.</hi> of all such power as tend<g ref="char:EOLhyphen"/>eth properly to the civil Magistrate in the Nations, which the Lord of Hosts hath been pleased to subdue for them, by his owne power, and stretched-out arm as they themselves will acknowledge.</p>
+            <p>To which end and purpose, I shall in the next place adde some inducing reasons for your further provocation thereunto. <hi>(viz.)</hi>
+            </p>
+            <p n="1">1 In that our brethren of the Army, have hitherto proved, under God, the grand power and refuge unto their brethren of the Congre<g ref="char:EOLhyphen"/>gational Churches and their well-wishers in all their distresses.</p>
+            <p n="2">2 Inasmuch as they have likewise been such as have procured the present freedomes and liberties which the Churches now injoy, and that by the hazard of their lives in the high places of the Field, and therefore without all controversie the fittest persons to be conti<g ref="char:EOLhyphen"/>nued in the Guardianship thereof.</p>
+            <p n="3">3 Inasmuch as they are likewise the men that have so deeply in<g ref="char:EOLhyphen"/>gaged themselves by their many vowes and protestations, to act in all things which may tend to the safety of their brethren as aforesaid, and therefore ought not any wise to be with held from accomplishing the same, but rather encourage thereunto by putting opportunities in<g ref="char:EOLhyphen"/>to their hands.</p>
+            <p n="4">4. Inasmuch as the Army is now in the most meet capacity that ever they were <hi>since an Army,</hi> to effect the same; in that, through the good hand of God upon them, the visible enemies of the Com<g ref="char:EOLhyphen"/>monwealth in the three Nations, are even wholly subdued unto them.</p>
+            <p n="5">5. Inasmuch as the wisdom and policie of the Army hath been ve<g ref="char:EOLhyphen"/>ry apparent, in point of Treaty with other Nations, (as with <hi>Scot<g ref="char:EOLhyphen"/>land</hi> and <hi>Ireland</hi>) in which two places, who but the Army managed such affairs? who treated with the enemies of them two conquered Nations, either in Field or Garison, but the Officers of the Army?
+<pb n="9" facs="tcp:115720:6"/>Were any of the Commissioners of State sent to treat with either of them Nations, before the Army had brought them to such a capacity by its Conquest over them? Yea, hath it not been very apparent, that in all the whole Series of affairs, the power of the Sword hath been the principal means (under God) to reduce the three Nations to their present obedience? <hi>(for what other means was the other, save bare ceremonies of State?)</hi> And are they not then the fir<g ref="char:EOLhyphen"/>test persons to be intrusted with what they have so valiantly prudent<g ref="char:EOLhyphen"/>ly, and gallantly obtained?</p>
+            <p n="6">6. As also, in point of Safety: for is not the Army dispersed into all the meet places of the three Nations, fit to suppress Insurrections if any should happen? (but I hope the adversaries to this Common<g ref="char:EOLhyphen"/>wealth have bought their experience to be quiet at so dear a rate, as that they will not part with it upon easie terms.)</p>
+            <p n="7">7. As also, to point of content, even to the most bitter enemies of this Commonwealth, whom I perswade my self will much more be pleased that a Representative of Officers of the Army should manage the affairs of that which they have so obtained as aforesaid,<note place="margin">Again, friends, you will be sure to have neither Law<g ref="char:EOLhyphen"/>yers, nor friends to Rabbies, nor sherking Commit<g ref="char:EOLhyphen"/>tee-men to order you.</note> ra<g ref="char:EOLhyphen"/>ther then the now lately excluded one, or one chosen out of the Presbytery, (which un<g ref="char:EOLhyphen"/>doubtedly would have been, had their late in<g ref="char:EOLhyphen"/>tended Act been brought to its intended ac<g ref="char:EOLhyphen"/>complishment) such persons being far more odious to them (in respect of their late claw<g ref="char:EOLhyphen"/>ing of the late King at the Isle of <hi>Wight,</hi> which was the grand cause of his utter ruine) then the aforesaid members of the Army. Yea, I am very confident that they will be far better pleased with the former then the later: for will it not be a great advantage to them, to save their Tythes, inasmuch as their own Clergie are out of office? Is it any pleasure to them to give the same to the Presbyterian Ministers? <hi>No doubtless.</hi> Again, what is it to them now, (seeing Monarchie and their Clergie are extirpated) if all the Cathedrals and Colledge lands be sold? So they may keep money in their purses, whereby to preserve their families, and help to redeem their former loss; with several other things of the like nature.</p>
+            <pb n="10" facs="tcp:115720:7"/>
+            <p> Again, I am as confident, <hi>&amp;c.</hi> that they will be sure more pleased in every respect with a Representative of the Army, then with any o<g ref="char:EOLhyphen"/>ther that can be now imagined should be chosen in the whole Nation, it being far more honourable for them to live under the wing of a gallant Enemy, then of a feigned Friend: for let them be well assu<g ref="char:EOLhyphen"/>red, that the Presbyterian would prove no better to them. Yea, I am also as confident, that they will finde a Representative of Officers of the Army far more noble to them then the other would have been that was lately intended, or any that could be elected out of the Congregated Churches, <hi>&amp;c.</hi>
+            </p>
+            <p>And as to the Navie at Sea. what greater satisfaction can there be to them. then that their fellow-souldiers should have that honour to be made Guardians of that they have so gallantly obtained, even by the hazard of their dearest blood?</p>
+            <p>And now, brethren, having thus given you some encouragement to petition as aforesaid, I shall in the next place convert my speech un<g ref="char:EOLhyphen"/>to the Army, by way of proposing and answering certain Queries, which will properly concern them, in relation to their officiating in the aforesaid enterprise of electing meet members (out of themselves) for a new Representative, so as may the best conduce to the safety and welfare of the Army: which presumption I hope the Lord General, <hi>&amp;c.</hi> will pardon, inasmuch as I shall do it meerly out of zeal to their welfare; hoping withal, that there may be some things rendered, that may at the least be worthy of their <hi>perusing,</hi> though not <hi>ac<g ref="char:EOLhyphen"/>cepting.</hi>
+            </p>
+            <p>I shall in the first place lay down the Propositions, and afterward make answer unto them. The Proposals are these: <hi>viz.</hi>
+            </p>
+            <list>
+               <item>1. <hi>Whether or no the private Souldiers of the Army ought to be admitted to vote in such an election, or that the Commission-Officers do act alone in the same?</hi>
+               </item>
+               <item>2. <hi>Whether or no Souldiers under each degree of Office in the Army, may not be thought meet for the managing of such an em<g ref="char:EOLhyphen"/>ployment as aforesaid?</hi>
+               </item>
+               <item>3. <hi>What number of Officers ought to be employed in the afore<g ref="char:EOLhyphen"/>said work?</hi>
+               </item>
+               <item>4. <hi>By what means such Officers may be elected, so, as that the same may be effected with the greatest facility and safety to the
+<pb n="11" facs="tcp:115720:7"/>Army and Nations (in their present capacities) as possibly may be?</hi>
+               </item>
+               <item>5. <hi>What maintenance is fit to be allowed such persons as shall be so elected during the time of such their services?</hi>
+               </item>
+               <item>6. <hi>And lastly, What duration of time will be meet that such a Representative to be continued, and renewed?</hi>
+               </item>
+            </list>
+            <p>In reference to which particulars, I shall in like manner humbly offer my thoughts (by way of answer) to the consideration of the Lord General and the Officers under his command; <hi>viz.</hi>
+            </p>
+            <p>As to the first of them, I conceive it most meet that the Commis<g ref="char:EOLhyphen"/>sion-Officers of the Army have the vote of election alone, without the private Souldiery: my Reasons are these; 1. In that it will be a means to keep the private Souldiery at quiet, whereas otherwise there might arise discords amongst them by such an action. 2. Inas<g ref="char:EOLhyphen"/>much as the aforesaid Officers are for the most part well principled, both as to Religion, as also to the safety and welfare of the Com<g ref="char:EOLhyphen"/>monwealth; whereas many of the private Souldiery may be con<g ref="char:EOLhyphen"/>ceived to be of a light and unstable minde in matters of such con<g ref="char:EOLhyphen"/>cernment: so that it is probable they may be wrought upon, to elect some unmeet Officers for the aforesaid employment, by means of pri<g ref="char:EOLhyphen"/>vate tamperings of the publike enemy, which would undoubtedly be attempted.</p>
+            <p n="2">2. In reference to the second Proposal, I likewise conceive that there are some under each degree of Office (as aforesaid) that are meet persons to be employed, as aforesaid: so that not any one Offi<g ref="char:EOLhyphen"/>cers in the Army <hi>viz.</hi> from the General to a Cornet or Ensigne ought to be excepted against, as either to vote, or be voted for.</p>
+            <p n="3">3. In reference likewise to third Proposal, I also conceive that two Officers out of each Regiment in the Army, will be sufficient for the aforesaid employment with one out of each Garison (where the soul<g ref="char:EOLhyphen"/>diery therein hath no relation to a Regiment) which if likewise thought requisite may be permitted both to the Armies and Garisons, in <hi>Scotland</hi> and <hi>Ireland:</hi> which thing ought chiefly to be had re<g ref="char:EOLhyphen"/>spect unto of any one particular whatsoever, in that it would be a means to keep a brother-like union and correspondence betwixt the Armies; as also, in that it may likewise be performed with as much facility and safety as it can be done in <hi>England.</hi>
+            </p>
+            <p n="4">4. And as to the manner of such election, I also conceive that it
+<pb n="12" facs="tcp:115720:8"/>may be done without a General Assembly of the Officers of the Ar<g ref="char:EOLhyphen"/>my, yea or of each Regiment, (unless they be all together in field, or Garison or at some small distance from each other) as thus:</p>
+            <p>Such Officers as are Regimentall, whether of Horse or Foot, wheresoever dispersed may give, or send their desires in writing to his Collonel, <hi>(viz)</hi> what Officer (in the Regiment he is of) he hath made choice of for the aforesaid service, which being done by any one or more Officers apart, <hi>where they have their residence,</hi> and the Colonels of each Regiment having received the same, and that by same certaine day prefixed by the Lord Generall to that purpose, may likewise (upon another prefixed day by the Lord Generall to that purpose) send all such particular elections inclosed to the Lord Gene<g ref="char:EOLhyphen"/>rall, who at another day appointed for that purpose may with, and in the presence of a Generall assembly of such Officers as are at the Head-quarters, break open the same, which when they have perused, and compared, and found which Persons are elected as afore<g ref="char:EOLhyphen"/>said,</p>
+            <p>That then the Lord Generall do forthwith issue out his commands to the Persons so elected, to repaire to the place where they are to perform such their services injoyned them as aforesaid; all which a<g ref="char:EOLhyphen"/>foresaid letters tending to the foresaid election, ought to be re<g ref="char:EOLhyphen"/>gistred, and filed by the Lord Generalls Secretary, to the end they may be produced if occasion require, and that the vacancy of the two aforesaid Officers out of each Regiment, may be supplied by the next Officers under them untill their returne; By which means there will be but the addition of two corporals in each Regiment, and one in each Garison <hi>&amp;c.</hi>
+            </p>
+            <p>I suppose also that the like course may be taken both in <hi>Scotland</hi> and <hi>Ireland,</hi> as also the Navy at Sea, where each of the Generals may have the election of one Member to take care of them a shore, as also of one to supply his place untill his returne, which will undoub<g ref="char:EOLhyphen"/>tedly give great satisfaction to the Sea-men.</p>
+            <p>As also that the Lord Generall himselfe may have the election of a Generall Officer out of each Nation for the aforesaid service, as also of three others to supply their Commands, untill they shall returne thereunto; and that the said parties who shall be so elected, may be allowed their pay, during the aforesaid time,
+<pb n="7" facs="tcp:115720:8"/>out of the contingent monys which shall be in the Lord Generalls disposal, as also all the rest of the Officers elected as aforesaid.</p>
+            <p>Againe as to the fifth proposition in relation to the Salary of such persons as shall be elected as aforesaid, I likewise suppose that they ought to have no other allowance for such their service then their usu<g ref="char:EOLhyphen"/>al pay as Officers of the Army, under each degree or quality they were, in the Regiment or Garison, at the time that they were so elect<g ref="char:EOLhyphen"/>ed; and that for these Reasons; <hi>viz.</hi>
+            </p>
+            <p>1. Inasmuch as by so doing, they will be kept in an humble frame of spirit, which otherwise might be changed by an exceed or increase of maintenance; whereas, <hi>having but food and raiment, they ought to be therewith content,</hi> especially in the present condition that the poor people of the Commonwealth are now in by reason of the heavie. Taxes lying upon their shoulders; which ought seriously to be considered and remedied.</p>
+            <p>2 In that it will also serve to cool the zeal, which peradventure some covetous Officers might have to be elected, though I hope there will be very few such found in that mood.</p>
+            <p>3 In that it will make honest and cordial Officers more willing to embrace such an employment, (such as with the Apostle <hi>desireth to spend and be spent</hi> for the good of the people of God, and their country, knowing that it is the duty of parents <hi>to lay up for the children, and not the children for their Parents.</hi>)</p>
+            <p>4 It will also be a means to make the elected to quit such their employment, when required by their Electors.</p>
+            <p>5 In that such an alowance I am confident will please every ho<g ref="char:EOLhyphen"/>nest-hearted man, in respect of the affection which they bear to the publike good, or welfare of these Nations, over which the Lord hath been pleased to make them Victors.</p>
+            <p>6 And lastly, in relation to a meet time for the continuation of the next new representative; I conceive that twelve moneths will be a very competent time, at the expiration whereof, they may be either <hi>changed</hi> or <hi>continued</hi> for twelve moneths longer.—By which means a great part of the Officers in the Army will in a short time be as well made polititians as soldiers, which undoubtedly will redound to the greater glory of the Army, as also to the advantage of their Generals General, Jesus Christ, (the Captaine General of the Lords
+<pb n="14" facs="tcp:115720:9"/>Host) as to the subduing of all the Nations of the world, either to his Golden Scepter or Iron Rod, as aforesaid.</p>
+            <p>Thus have you the thoughts of a faithful and free-born Member of this Commonwealth, how the Saints thereof may with much facility and ease, procure themselves a new representative to the glory of God, and the safety and welfare of the now three united Nations or Republike; which being upon my spirit, I was constrain<g ref="char:EOLhyphen"/>ed to make known unto you in this your present condition: which if it may be any advantage to the Saints either in Church or Army, he hath his desires, who subscribeth himself</p>
+            <closer>
+               <signed>Your truly de<g ref="char:EOLhyphen"/>voted servant <hi>John Spitlehouse.</hi>
+               </signed>
+               <dateline>
+                  <hi>London,</hi>
+                  <date>April 23. 1653.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="postscript">
+            <head>Postscript.</head>
+            <p>
+               <hi>I</hi> Hope it will prove as a shooing-born, to draw on others far more able to give directions in such high matters of concern<g ref="char:EOLhyphen"/>ment. In the interim, I hope, this will be ac<g ref="char:EOLhyphen"/>cepted, as such an offering as can probably be expected from such an one as the Au<g ref="char:EOLhyphen"/>thor, either in name or condition.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
